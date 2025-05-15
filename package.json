@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "nodemon node ./bin/www"
+    "start": "nodemon app.js"
   },
   "dependencies": {
     "bcryptjs": "^3.0.2",
